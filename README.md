@@ -16,4 +16,5 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=felosa&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=felosa&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felosa)](https://git.io/streak-stats)
+
