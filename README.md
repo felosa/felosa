@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!--
-**felosa/felosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+My name is Heronnes Pereira and I'm open to new opportunities:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Software Developer at Archer Knight (Holdings) Limited. I'm open to discuss Frontend Developer roles. 
+- 🌱 I’m currently learning Typescript, testing and improving my JS and React skills.
+- 👯 I’m looking to collaborate on Github.
+- 📫 How to reach me: https://www.linkedin.com/in/felosa/ .
+
+
+## My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felosa&layout=compact&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=felosa&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=felosa&hide_border=true)
