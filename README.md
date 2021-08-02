@@ -2,9 +2,9 @@
 
 <br/>
 
-My name is Heronnes Pereira and I'm open to new opportunities:
+My name is Fernando Lopez and I'm open to new opportunities as a Frontend Developer with React:
 
-- 🔭 I’m currently working as a Software Developer at Archer Knight (Holdings) Limited. I'm open to discuss Frontend Developer roles. 
+- 🔭 I’m currently working as a Software Developer at Archer Knight (Holdings) Limited.
 - 🌱 I’m currently learning Typescript, testing and improving my JS and React skills.
 - 👯 I’m looking to collaborate on Github.
 - 📫 How to reach me: https://www.linkedin.com/in/felosa/ .
