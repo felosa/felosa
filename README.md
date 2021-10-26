@@ -2,7 +2,7 @@
 
 <br/>
 
-My name is Fernando Lopez and I'm open to new opportunities as a Frontend Developer with React:
+My name is Fernando Lopez and I'm a Frontend Developer at SHE Software:
 
 - 🔭 I’m currently working as a Software Developer at Archer Knight (Holdings) Limited.
 - 🌱 I’m currently learning Typescript, testing and improving my JS and React skills.
