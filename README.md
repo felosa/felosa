@@ -5,7 +5,7 @@
 My name is Fernando Lopez and I'm a Frontend Developer:
 
 - 🔭 I’m currently working as a Frontend Developer at Evotix.
-- 🌱 I’m currently learning Typescript, testing and improving my JS and React skills.
+- 🌱 I’m currently improving my Typescript and testing skills.
 - 👯 I’m looking to collaborate on Github.
 - 📫 How to reach me: https://www.linkedin.com/in/felosa/ .
 
